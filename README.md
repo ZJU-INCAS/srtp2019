@@ -17,7 +17,7 @@
   </tr>		
   
   <tr>
-    <td>5</td><td>2019/5/24</td><td>区块链</td><td>金一博</td><td>S-gram: towards semantic-aware securit autiting for ethereum smart contracts.</td><td></td>
+    <td>5</td><td>2019/5/24</td><td>区块链</td><td>金一博</td><td>S-gram: towards semantic-aware securit autiting for ethereum smart contracts.(ASE 2018)</td><td></td>
   </tr>
   <tr>
    <td>6</td><td> </td><td>机器学习</td><td>周瑞褀</td><td>A taxi order dispatch model based on combinatorial optimization. (kdd 2017)</td><td></td>
@@ -41,7 +41,7 @@
     <td>11</td><td>2019/6/14</td><td>区块链</td><td>张宏强</td><td></td><td></td>
   </tr>
   <tr>
-   <td>12</td><td> </td><td>机器学习	</td><td>张雪楠</td><td></td><td></td>
+   <td>12</td><td> </td><td>机器学习</td><td>张雪楠</td><td></td><td></td>
   </tr>		
   
   <tr>
@@ -49,17 +49,69 @@
   </tr>
   <tr>
    <td>14</td><td> </td><td>机器学习</td><td>马万腾</td><td></td><td></td>
-  </tr>		
+  </tr>	
+  
+  <tr>
+    <td>15</td><td>2019/6/28</td><td>区块链</td><td>陈科浩</td><td></td><td></td>
+  </tr>
+  <tr>
+   <td>16</td><td> </td><td>机器学习</td><td>张佳瑶</td><td></td><td></td>
+  </tr>	
+  
+  <tr>
+    <td>17</td><td>2019/7/5</td><td>区块链</td><td>金一博</td><td></td><td></td>
+  </tr>
+  <tr>
+   <td>18</td><td> </td><td>机器学习</td><td>周瑞褀</td><td></td><td></td>
+  </tr>	
+  
+  <tr><td>19</td><td>43658</td><td>区块链</td><td>﻿王旌权</td><td></td><td></td></tr>
+<tr><td>20</td><td></td><td>机器学习</td><td>韩耕诗</td><td></td><td></td></tr>
+<tr><td>21</td><td>43665</td><td>区块链</td><td>章雨婷</td><td></td><td></td></tr>
+<tr><td>22</td><td></td><td>机器学习</td><td>余林恩</td><td></td><td></td></tr>
+<tr><td>23</td><td>43672</td><td>区块链</td><td>张宏强</td><td></td><td></td></tr>
+<tr><td>24</td><td></td><td>机器学习</td><td>张雪楠</td><td></td><td></td></tr>
+<tr><td>25</td><td>43679</td><td>区块链</td><td>刘长硕</td><td></td><td></td></tr>
+<tr><td>26</td><td></td><td>机器学习</td><td>马万腾</td><td></td><td></td></tr>
+<tr><td>27</td><td>43686</td><td>区块链</td><td>﻿陈科浩</td><td></td><td></td></tr>
+<tr><td>28</td><td></td><td>机器学习</td><td>﻿张佳瑶</td><td></td><td></td></tr>
+<tr><td>29</td><td>43693</td><td>区块链</td><td>﻿金一博</td><td></td><td></td></tr>
+<tr><td>30</td><td></td><td>机器学习</td><td>﻿周瑞褀</td><td></td><td></td></tr>
+<tr><td>31</td><td>43700</td><td>区块链</td><td>﻿王旌权</td><td></td><td></td></tr>
+<tr><td>32</td><td></td><td>机器学习</td><td>韩耕诗</td><td></td><td></td></tr>
+<tr><td>33</td><td>43707</td><td>区块链</td><td>章雨婷</td><td></td><td></td></tr>
+<tr><td>34</td><td></td><td>机器学习</td><td>余林恩</td><td></td><td></td></tr>
+<tr><td>35</td><td>43714</td><td>区块链</td><td>张宏强</td><td></td><td></td></tr>
+<tr><td>36</td><td></td><td>机器学习</td><td>张雪楠</td><td></td><td></td></tr>
+<tr><td>37</td><td>43721</td><td>区块链</td><td>刘长硕</td><td></td><td></td></tr>
+<tr><td>38</td><td></td><td>机器学习</td><td>马万腾</td><td></td><td></td></tr>
+<tr><td>39</td><td>43728</td><td>区块链</td><td>﻿陈科浩</td><td></td><td></td></tr>
+<tr><td>40</td><td></td><td>机器学习</td><td>﻿张佳瑶</td><td></td><td></td></tr>
+<tr><td>41</td><td>43735</td><td>区块链</td><td>﻿金一博</td><td></td><td></td></tr>
+<tr><td>42</td><td></td><td>机器学习</td><td>﻿周瑞褀</td><td></td><td></td></tr>
+<tr><td>43</td><td>43742</td><td>区块链</td><td>﻿王旌权</td><td></td><td></td></tr>
+<tr><td>44</td><td></td><td>机器学习</td><td>韩耕诗</td><td></td><td></td></tr>
+<tr><td>45</td><td>43749</td><td>区块链</td><td>章雨婷</td><td></td><td></td></tr>
+<tr><td>46</td><td></td><td>机器学习</td><td>余林恩</td><td></td><td></td></tr>
+<tr><td>47</td><td>43756</td><td>区块链</td><td>张宏强</td><td></td><td></td></tr>
+<tr><td>48</td><td></td><td>机器学习</td><td>张雪楠</td><td></td><td></td></tr>
+<tr><td>49</td><td>43763</td><td>区块链</td><td>刘长硕</td><td></td><td></td></tr>
+<tr><td>50</td><td></td><td>机器学习</td><td>马万腾</td><td></td><td></td></tr>
+<tr><td>51</td><td>43770</td><td>区块链</td><td>﻿陈科浩</td><td></td><td></td></tr>
+<tr><td>52</td><td></td><td>机器学习</td><td>﻿张佳瑶</td><td></td><td></td></tr>
+<tr><td>53</td><td>43777</td><td>区块链</td><td>﻿金一博</td><td></td><td></td></tr>
+<tr><td>54</td><td></td><td>机器学习</td><td>﻿周瑞褀</td><td></td><td></td></tr>
+<tr><td>55</td><td>43784</td><td>区块链</td><td>﻿王旌权</td><td></td><td></td></tr>
+<tr><td>56</td><td></td><td>机器学习</td><td>韩耕诗</td><td></td><td></td></tr>
+<tr><td>57</td><td>43791</td><td>区块链</td><td>章雨婷</td><td></td><td></td></tr>
+<tr><td>58</td><td></td><td>机器学习</td><td>余林恩</td><td></td><td></td></tr>
+<tr><td>59</td><td>43798</td><td>区块链</td><td>张宏强</td><td></td><td></td></tr>
+<tr><td>60</td><td></td><td>机器学习</td><td>张雪楠</td><td></td><td></td></tr>
+ 
   
  </table>
  
-
-15	2019/6/28	区块链	﻿陈科浩		
-16		机器学习	﻿张佳瑶		
-17	2019/7/5	区块链	﻿金一博		
-18		机器学习	﻿周瑞褀		
-19	2019/7/12	区块链	﻿王旌权		
-20		机器学习	韩耕诗		
+	
 21	2019/7/19	区块链	章雨婷		
 22		机器学习	余林恩		
 23	2019/7/26	区块链	张宏强		
