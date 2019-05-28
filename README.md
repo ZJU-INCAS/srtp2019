@@ -1,27 +1,59 @@
 # srtp2019
-<table>
+<table style="width:100%">
   <tr>
-  <td>ID</td><td>	日期</td><td>	类型</td><td>	分享者</td><td>	分享题目</td><td>	备注</td>
+  <td>ID</td><td>	日期</td><td>类型</td><td>分享者</td><td>分享题目</td><td>	备注</td>
   <tr>
-    <td>1</td><td>2019/5/10	</td><td>区块链</td><td>	刘长硕</td><td> </td><td> </td>
+    <td>1</td><td>2019/5/10</td><td>区块链</td><td>刘长硕</td><td></td><td></td>
   </tr>
   <tr>
-    <td>	
-      2</td><td> </td><td>机器学习	</td><td>马万腾</td><td></td><td></td></tr>		
+   <td>2</td><td> </td><td>机器学习	</td><td>马万腾</td><td></td><td></td>
+  </tr>		
+  
+  <tr>
+    <td>3</td><td>2019/5/17</td><td>区块链</td><td>陈科浩</td><td></td><td></td>
+  </tr>
+  <tr>
+   <td>4</td><td> </td><td>机器学习	</td><td>张佳瑶</td><td></td><td></td>
+  </tr>		
+  
+  <tr>
+    <td>5</td><td>2019/5/24</td><td>区块链</td><td>金一博</td><td></td><td></td>
+  </tr>
+  <tr>
+   <td>6</td><td> </td><td>机器学习</td><td>周瑞褀</td><td></td><td></td>
+  </tr>		
+  
+  <tr>
+    <td>7</td><td>2019/5/31</td><td>区块链</td><td>王旌权</td><td></td><td></td>
+  </tr>
+  <tr>
+   <td>8</td><td> </td><td>机器学习	</td><td>韩耕诗</td><td></td><td></td>
+  </tr>		
+  
+  <tr>
+    <td>9</td><td>2019/6/7</td><td>区块链</td><td>章雨婷</td><td></td><td></td>
+  </tr>
+  <tr>
+   <td>10</td><td> </td><td>机器学习	</td><td>余林恩</td><td></td><td></td>
+  </tr>		
+  
+  <tr>
+    <td>11</td><td>2019/6/14</td><td>区块链</td><td>张宏强</td><td></td><td></td>
+  </tr>
+  <tr>
+   <td>12</td><td> </td><td>机器学习	</td><td>张雪楠</td><td></td><td></td>
+  </tr>		
+  
+  <tr>
+    <td>13</td><td>2019/6/21</td><td>区块链</td><td>刘长硕</td><td></td><td></td>
+  </tr>
+  <tr>
+   <td>14</td><td> </td><td>机器学习</td><td>马万腾</td><td></td><td></td>
+  </tr>		
+  
  </table>
  
-3	2019/5/17	区块链	﻿陈科浩		
-4		机器学习	﻿张佳瑶		
-5	2019/5/24	区块链	﻿金一博		
-6		机器学习	﻿周瑞褀		
-7	2019/5/31	区块链	﻿王旌权		
-8		机器学习	韩耕诗		
-9	2019/6/7	区块链	章雨婷		
-10		机器学习	余林恩		
-11	2019/6/14	区块链	张宏强		
-12		机器学习	张雪楠		
-13	2019/6/21	区块链	刘长硕		
-14		机器学习	马万腾		
+
 15	2019/6/28	区块链	﻿陈科浩		
 16		机器学习	﻿张佳瑶		
 17	2019/7/5	区块链	﻿金一博		
