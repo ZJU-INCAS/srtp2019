@@ -2,6 +2,7 @@
 The plan list of presentation is as follows.<br>
 
 <table style="width:100%">
+<tr align="center"><td>ID</td><td NOWRAP>日期</td><td NOWRAP>类型</td><td NOWRAP>分享者</td><td>分享题目</td><td>备注</td></tr>
 <tr><td>1</td><td NOWRAP>2019/05/10</td><td NOWRAP>区块链</td><td NOWRAP>刘长硕</td><td></td><td></td></tr>
 <tr><td>2</td><td NOWRAP></td><td NOWRAP>机器学习</td><td NOWRAP>马万腾</td><td></td><td></td></tr>
 <tr><td>3</td><td NOWRAP>2019/05/17</td><td NOWRAP>区块链</td><td NOWRAP>﻿陈科浩</td><td></td><td></td></tr>
