@@ -17,10 +17,10 @@
   </tr>		
   
   <tr>
-    <td>5</td><td>2019/5/24</td><td>区块链</td><td>金一博</td><td></td><td></td>
+    <td>5</td><td>2019/5/24</td><td>区块链</td><td>金一博</td><td>S-gram: towards semantic-aware securit autiting for ethereum smart contracts.</td><td></td>
   </tr>
   <tr>
-   <td>6</td><td> </td><td>机器学习</td><td>周瑞褀</td><td></td><td></td>
+   <td>6</td><td> </td><td>机器学习</td><td>周瑞褀</td><td>A taxi order dispatch model based on combinatorial optimization. (kdd 2017)</td><td></td>
   </tr>		
   
   <tr>
