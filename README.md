@@ -11,10 +11,10 @@ The plan list of presentation is as follows.<br>
 <tr><td>6</td><td NOWRAP></td><td NOWRAP>机器学习</td><td NOWRAP>﻿周瑞褀</td><td>A taxi order dispatch model based on combinatorial optimization. (kdd 2017)</td><td></td></tr>
 <tr><td>7</td><td NOWRAP>2019/05/31</td><td NOWRAP>区块链</td><td NOWRAP>﻿王旌权</td><td></td><td></td></tr>
 <tr><td>8</td><td NOWRAP></td><td NOWRAP>机器学习</td><td NOWRAP>韩耕诗</td><td></td><td></td></tr>
-<tr><td>9</td><td NOWRAP>2019/06/07</td><td NOWRAP>区块链</td><td NOWRAP>章雨婷</td><td></td><td></td></tr>
+<tr><td>9</td><td NOWRAP>2019/06/07</td><td NOWRAP>区块链</td><td NOWRAP>章雨婷</td><td>本周放假</td><td></td></tr>
 <tr><td>10</td><td NOWRAP></td><td NOWRAP>机器学习</td><td NOWRAP>余林恩</td><td></td><td></td></tr>
-<tr><td>11</td><td NOWRAP>2019/06/14</td><td NOWRAP>区块链</td><td NOWRAP>张宏强</td><td></td><td></td></tr>
-<tr><td>12</td><td NOWRAP></td><td NOWRAP>机器学习</td><td NOWRAP>张雪楠</td><td></td><td></td></tr>
+<tr><td>11</td><td NOWRAP>2019/06/14</td><td NOWRAP>区块链</td><td NOWRAP>张宏强</td><td>﻿Simplicity: A New Language for Blockchains</td><td></td></tr>
+<tr><td>12</td><td NOWRAP></td><td NOWRAP>机器学习</td><td NOWRAP>张雪楠</td><td>Insights on representational similarity in neural networks with canonical correlation</td><td></td></tr>
 <tr><td>13</td><td NOWRAP>2019/06/21</td><td NOWRAP>区块链</td><td NOWRAP>刘长硕</td><td></td><td></td></tr>
 <tr><td>14</td><td NOWRAP></td><td NOWRAP>机器学习</td><td NOWRAP>马万腾</td><td></td><td></td></tr>
 <tr><td>15</td><td NOWRAP>2019/06/28</td><td NOWRAP>区块链</td><td NOWRAP>﻿陈科浩</td><td></td><td></td></tr>
@@ -23,7 +23,7 @@ The plan list of presentation is as follows.<br>
 <tr><td>18</td><td NOWRAP></td><td NOWRAP>机器学习</td><td NOWRAP>﻿周瑞褀</td><td></td><td></td></tr>
 <tr><td>19</td><td NOWRAP>2019/07/12</td><td NOWRAP>区块链</td><td NOWRAP>﻿王旌权</td><td></td><td></td></tr>
 <tr><td>20</td><td NOWRAP></td><td NOWRAP>机器学习</td><td NOWRAP>韩耕诗</td><td></td><td></td></tr>
-<tr><td>21</td><td NOWRAP>2019/07/19</td><td NOWRAP>区块链</td><td NOWRAP>章雨婷</td><td></td><td></td></tr>
+<tr><td>21</td><td NOWRAP>2019/07/19</td><td NOWRAP>区块链</td><td NOWRAP>章雨婷</td><td>陈可一</td><td></td></tr>
 <tr><td>22</td><td NOWRAP></td><td NOWRAP>机器学习</td><td NOWRAP>余林恩</td><td></td><td></td></tr>
 <tr><td>23</td><td NOWRAP>2019/07/26</td><td NOWRAP>区块链</td><td NOWRAP>张宏强</td><td></td><td></td></tr>
 <tr><td>24</td><td NOWRAP></td><td NOWRAP>机器学习</td><td NOWRAP>张雪楠</td><td></td><td></td></tr>
@@ -61,8 +61,6 @@ The plan list of presentation is as follows.<br>
 <tr><td>56</td><td NOWRAP></td><td NOWRAP>机器学习</td><td NOWRAP>韩耕诗</td><td></td><td></td></tr>
 <tr><td>57</td><td NOWRAP>2019/11/22</td><td NOWRAP>区块链</td><td NOWRAP>章雨婷</td><td></td><td></td></tr>
 <tr><td>58</td><td NOWRAP></td><td NOWRAP>机器学习</td><td NOWRAP>余林恩</td><td></td><td></td></tr>
-<tr><td>59</td><td NOWRAP>2019/11/29</td><td NOWRAP>区块链</td><td NOWRAP>张宏强</td><td></td><td></td></tr>
-<tr><td>60</td><td NOWRAP></td><td NOWRAP>机器学习</td><td NOWRAP>张雪楠</td><td></td><td></td></tr>
  </table>
  
 		
