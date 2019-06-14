@@ -20,23 +20,23 @@ Blockchain group: <br>
 <tr><td>15</td><td NOWRAP>2019/08/23</td><td NOWRAP>张宏强</td><td></td><td></td></tr>
 <tr><td>16</td><td NOWRAP>2019/08/30</td><td NOWRAP>张杰</td><td></td><td></td></tr>
 <tr><td>17</td><td NOWRAP>2019/09/06</td><td NOWRAP>范俊松</td><td></td><td></td></tr>
-<tr><td>18</td><td NOWRAP>2019/09/13</td><td NOWRAP>范俊松</td><td></td><td></td></tr>
-<tr><td>19</td><td NOWRAP>2019/09/20</td><td NOWRAP>陈科浩</td><td></td><td></td></tr>
-<tr><td>20</td><td NOWRAP>2019/09/27</td><td NOWRAP>王旌权</td><td></td><td></td></tr>
-<tr><td>21</td><td NOWRAP>2019/10/04</td><td NOWRAP>刘长硕</td><td></td><td></td></tr>
-<tr><td>22</td><td NOWRAP>2019/10/11</td><td NOWRAP>金一博</td><td></td><td></td></tr>
-<tr><td>23</td><td NOWRAP>2019/10/18</td><td NOWRAP>章雨婷</td><td></td><td></td></tr>
-<tr><td>24</td><td NOWRAP>2019/10/25</td><td NOWRAP>张宏强</td><td></td><td></td></tr>
-<tr><td>25</td><td NOWRAP>2019/11/01</td><td NOWRAP>张杰</td><td></td><td></td></tr>
-<tr><td>26</td><td NOWRAP>2019/11/08</td><td NOWRAP>田子珺</td><td></td><td></td></tr>
-<tr><td>27</td><td NOWRAP>2019/11/15</td><td NOWRAP>范俊松</td><td></td><td></td></tr>
-<tr><td>28</td><td NOWRAP>2019/11/22</td><td NOWRAP>陈科浩</td><td></td><td></td></tr>
-<tr><td>29</td><td NOWRAP>2019/11/29</td><td NOWRAP>王旌权</td><td></td><td></td></tr>
-<tr><td>30</td><td NOWRAP>2019/12/06</td><td NOWRAP>刘长硕</td><td></td><td></td></tr>
-<tr><td>31</td><td NOWRAP>2019/12/13</td><td NOWRAP>金一博</td><td></td><td></td></tr>
-<tr><td>32</td><td NOWRAP>2019/12/20</td><td NOWRAP>章雨婷</td><td></td><td></td></tr>
-<tr><td>33</td><td NOWRAP>2019/12/27</td><td NOWRAP>张宏强</td><td></td><td></td></tr>
-<tr><td>34</td><td NOWRAP>2020/01/03</td><td NOWRAP>张杰</td><td></td><td></td></tr>
+<tr><td>18</td><td NOWRAP>2019/09/13</td><td NOWRAP>陈科浩</td><td></td><td></td></tr>
+<tr><td>19</td><td NOWRAP>2019/09/20</td><td NOWRAP>王旌权</td><td></td><td></td></tr>
+<tr><td>20</td><td NOWRAP>2019/09/27</td><td NOWRAP>刘长硕</td><td></td><td></td></tr>
+<tr><td>21</td><td NOWRAP>2019/10/04</td><td NOWRAP>金一博</td><td></td><td></td></tr>
+<tr><td>22</td><td NOWRAP>2019/10/11</td><td NOWRAP>章雨婷</td><td></td><td></td></tr>
+<tr><td>23</td><td NOWRAP>2019/10/18</td><td NOWRAP>张宏强</td><td></td><td></td></tr>
+<tr><td>24</td><td NOWRAP>2019/10/25</td><td NOWRAP>张杰</td><td></td><td></td></tr>
+<tr><td>25</td><td NOWRAP>2019/11/01</td><td NOWRAP>田子珺</td><td></td><td></td></tr>
+<tr><td>26</td><td NOWRAP>2019/11/08</td><td NOWRAP>范俊松</td><td></td><td></td></tr>
+<tr><td>27</td><td NOWRAP>2019/11/15</td><td NOWRAP>陈科浩</td><td></td><td></td></tr>
+<tr><td>28</td><td NOWRAP>2019/11/22</td><td NOWRAP>王旌权</td><td></td><td></td></tr>
+<tr><td>29</td><td NOWRAP>2019/11/29</td><td NOWRAP>刘长硕</td><td></td><td></td></tr>
+<tr><td>30</td><td NOWRAP>2019/12/06</td><td NOWRAP>金一博</td><td></td><td></td></tr>
+<tr><td>31</td><td NOWRAP>2019/12/13</td><td NOWRAP>章雨婷</td><td></td><td></td></tr>
+<tr><td>32</td><td NOWRAP>2019/12/20</td><td NOWRAP>张宏强</td><td></td><td></td></tr>
+<tr><td>33</td><td NOWRAP>2019/12/27</td><td NOWRAP>张杰</td><td></td><td></td></tr>
+<tr><td>34</td><td NOWRAP>2020/01/03</td><td NOWRAP>田子珺</td><td></td><td></td></tr>
  </table>
  
  AI group:<br>
