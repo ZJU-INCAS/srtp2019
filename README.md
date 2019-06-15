@@ -1,6 +1,7 @@
 # SRTP2019 <br>
-The plan list of presentation is as follows.<br>
-Blockchain group: <br>
+The schedule of presentation plan is as follows.<br>
+<hr>
+For blockchain group: <br>
 <table style="width:100%">
 <tr><td>ID</td><td NOWRAP>日期</td><td NOWRAP>分享者</td><td>分享题目</td><td>备注</td></tr>
 <tr><td>1</td><td NOWRAP>2019/05/10</td><td NOWRAP>刘长硕</td><td></td><td></td></tr>
@@ -39,7 +40,8 @@ Blockchain group: <br>
 <tr><td>34</td><td NOWRAP>2020/01/03</td><td NOWRAP>田子珺</td><td></td><td></td></tr>
  </table>
  
- AI group:<br>
+ <hr>
+ For AI group:<br>
  <table style="width:100%">
 <tr><td>ID</td><td NOWRAP>日期</td><td NOWRAP>分享者</td><td>分享题目</td><td>备注</td></tr>
 <tr><td>1</td><td NOWRAP>2019/05/10</td><td NOWRAP>马万腾</td><td></td><td></td></tr>
