@@ -51,7 +51,7 @@ Blockchain group: <br>
 <tr><td>7</td><td NOWRAP>2019/06/28</td><td NOWRAP></td><td>暂停，期末备考</td><td></td></tr>
 <tr><td>8</td><td NOWRAP>2019/07/05</td><td NOWRAP>张雪楠</td><td></td><td></td></tr>
 <tr><td>9</td><td NOWRAP>2019/07/12</td><td NOWRAP>陈可一</td><td></td><td></td></tr>
-<tr><td>10</td><td NOWRAP>2019/07/19</td><td NOWRAP>马万腾</td><td></td><td></td></tr>
+<tr><td>10</td><td NOWRAP>2019/07/19</td><td NOWRAP>周瑞褀</td><td></td><td></td></tr>
 <tr><td>11</td><td NOWRAP>2019/07/26</td><td NOWRAP>周瑞褀</td><td></td><td></td></tr>
 <tr><td>12</td><td NOWRAP>2019/08/02</td><td NOWRAP>余林恩</td><td></td><td></td></tr>
 <tr><td>13</td><td NOWRAP>2019/08/09</td><td NOWRAP>张佳瑶</td><td></td><td></td></tr>
