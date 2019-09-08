@@ -14,7 +14,7 @@ For blockchain group: <br>
 <tr><td>8</td><td NOWRAP>2019/07/05</td><td NOWRAP>张宏强</td><td></td><td></td></tr>
 <tr><td>9</td><td NOWRAP>2019/07/12</td><td NOWRAP>范俊松</td><td></td><td></td></tr>
 <tr><td>10</td><td NOWRAP>2019/07/19</td><td NOWRAP>陈科浩</td><td></td><td></td></tr>
-<tr bgcolor="#ffffff"><td colspan=5><hr>2019-2020秋冬学期</td></tr>
+<tr style="bgcolor:#ffffff"><td colspan=5>2019-2020秋冬学期</td></tr>
 <tr><td>11</td><td NOWRAP>2019/09/13</td><td NOWRAP>王旌权</td><td></td><td></td></tr>
 <tr><td>12</td><td NOWRAP>2019/09/20</td><td NOWRAP>刘长硕</td><td></td><td></td></tr>
 <tr><td>13</td><td NOWRAP>2019/09/27</td><td NOWRAP>金一博</td><td></td><td></td></tr>
@@ -55,9 +55,9 @@ For blockchain group: <br>
 <tr><td>8</td><td NOWRAP>2019/07/05</td><td NOWRAP>张雪楠</td><td></td><td></td></tr>
 <tr><td>9</td><td NOWRAP>2019/07/12</td><td NOWRAP>陈可一</td><td></td><td></td></tr>
 <tr><td>10</td><td NOWRAP>2019/07/19</td><td NOWRAP>周瑞褀</td><td></td><td></td></tr>
-<tr><td>11</td><td NOWRAP>2019/07/26</td><td NOWRAP>周瑞褀</td><td></td><td></td></tr>
+<tr><td>11</td><td NOWRAP>2019/07/26</td><td NOWRAP>马万腾</td><td></td><td></td></tr>
 <tr><td>12</td><td NOWRAP>2019/08/02</td><td NOWRAP>余林恩</td><td></td><td></td></tr>
-<tr><td colspan=5><hr>2019-2020秋冬学期</td></tr>
+<tr style="bgcolor:#ffffff"><td colspan=5>2019-2020秋冬学期</td></tr>
 <tr><td>13</td><td NOWRAP>2019/09/13</td><td NOWRAP>张佳瑶</td><td></td><td></td></tr>
 <tr><td>14</td><td NOWRAP>2019/09/20</td><td NOWRAP>韩耕诗</td><td></td><td></td></tr>
 <tr><td>15</td><td NOWRAP>2019/09/27</td><td NOWRAP>张雪楠</td><td></td><td></td></tr>
